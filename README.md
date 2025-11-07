@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Panczo&theme=dark&ring=89b04f&fire=ffcc00&currStreakNum=89b04f)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Panczo&theme=tokyonight&ring=89b04f&fire=ffcc00&currStreakNum=89b04f)](https://git.io/streak-stats)
