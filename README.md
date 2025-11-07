@@ -27,7 +27,7 @@ In my professional work, I also use **Java**, **JavaScript**, and **React.js** t
 - **Backend:** Ruby (Rails), Java (Spring)
 - **Frontend:** JavaScript (React.js)
 - **Databases:** PostgreSQL, MySQL
-- **Tools & DevOps:** GitHub Actions, Docker, AWS
+- **Tools & DevOps:** GitHub Actions, Docker, AWS, Azure
 
 ---
 
