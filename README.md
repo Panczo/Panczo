@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Panczo
 
-> Be happy.
-
 I'm a **Senior Fullstack Developer** with a focus on building reliable and maintainable web applications.  
 My main programming language is **Ruby**, and I love crafting systems with **Ruby on Rails**.  
 In my professional work, I also use **Java**, **JavaScript**, and **React.js** to deliver complete end-to-end solutions.
 
+
+> Be happy.
+> 
 ---
 
 ### Tech Stack
