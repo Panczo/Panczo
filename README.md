@@ -33,4 +33,4 @@ In my professional work, I also use **Java**, **JavaScript**, and **React.js** t
 ---
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Panczo&theme=tokyonight&ring=89b04f&fire=ffcc00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Panczo)](https://git.io/streak-stats)
